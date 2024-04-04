@@ -1,5 +1,5 @@
 {
-    "name": "svk's Hass.io Add-ons",
-    "url": "https://github.com/skrashevich/hassio-addons",
-    "maintainer": "skrashevich"
-  }
+  "name": "Doubletake Addons",
+  "url": "https://github.com/TomK/doubletake-hassio-addons",
+  "maintainer": "skrashevich (and TomK)"
+}
